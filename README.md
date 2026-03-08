@@ -21,7 +21,7 @@ This document provides an overview of the Smart Restaurant Reservation System, a
 9.  Challenges and Solutions
 10. Future Improvements
 11. Time Spent
-12. AI and External Resources
+12. AI
 
 ---
 
@@ -195,11 +195,11 @@ While the current implementation provides core functionality, several areas coul
 
 Approximately **8 hours** were dedicated to resolving the most challenging aspect: establishing robust communication between the frontend and backend using DTOs and Enums. The overall project time for developing all features was not explicitly tracked but involved significant effort beyond this specific challenge.
 
-## 12. AI and External Resources
+## 12. AI
 
 The following parts of the project utilized AI tools for assistance:
 
 *   **`DataInitializer.java`:** The initial structure and logic for generating diverse sample data for users, tables, and reservations were drafted with AI assistance.
-*   **`table-card.component.css`:** The styling for the table cards, grid layout, and visual indicators (like badges and borders) was refined and improved using AI-generated CSS suggestions to achieve a modern and responsive design.
+*   **`reservation.page.css`:** The styling for the table cards, grid layout, and visual indicators (like badges and borders) was refined and improved using AI-generated CSS suggestions to achieve a modern and responsive design.
 
 All other significant code sections and architectural decisions reflect original development efforts.
