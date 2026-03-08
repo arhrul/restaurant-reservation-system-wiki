@@ -134,10 +134,6 @@ Admin view url: `http://localhost:4200/admin`
 
 ### Table Recommendation Logic
 
-Отлично! Теперь я могу обновить этот раздел, чтобы он был более точным и отражал вашу конкретную реализацию. Вот как я перепишу раздел "Table Recommendation Logic":
-
----
-
 ## 8. Implementation Details
 
 ### Table Recommendation Logic
