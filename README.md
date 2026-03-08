@@ -134,10 +134,6 @@ Admin view url: `http://localhost:4200/admin`
 
 ### Table Recommendation Logic
 
-## 8. Implementation Details
-
-### Table Recommendation Logic
-
 The system identifies "Best Match" tables and their availability based on a specific algorithm implemented in the `RestaurantTableService` on the backend.
 
 1.  **Initial Data Retrieval:** All restaurant tables are fetched from the database.
